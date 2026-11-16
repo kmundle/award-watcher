@@ -1,0 +1,9 @@
+[
+  {
+    "id": "example",
+    "name": "Example award (replace me)",
+    "url": "https://example.com",
+    "deadline": "2027-03-01",
+    "notes": "Deadline and notes are optional."
+  }
+]
